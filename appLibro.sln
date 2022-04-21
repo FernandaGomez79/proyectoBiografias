@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32126.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "appLibro", "appLibro\appLibro.csproj", "{AE648EED-9B61-40D7-ABC3-9C7882E1621F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE648EED-9B61-40D7-ABC3-9C7882E1621F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE648EED-9B61-40D7-ABC3-9C7882E1621F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE648EED-9B61-40D7-ABC3-9C7882E1621F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE648EED-9B61-40D7-ABC3-9C7882E1621F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EE69533F-2E3D-4324-B02A-4A500324BE75}
+	EndGlobalSection
+EndGlobal
